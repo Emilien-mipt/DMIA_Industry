@@ -1,0 +1,14 @@
+{
+    "author_email": "emin.tagiev@phystech.edu",
+    "learning_rate": 0.005, 
+    "max_depth": 7, 
+    "min_child_weight": 7,
+    "n_estimators": 750, 
+    "seed": 42,
+    "objective":"binary:logistic",
+    "scale_pos_weight": 0.8,
+    "gamma": 0.1,
+    "reg_alpha": 0.218,
+    "subsample": 1, 
+    "colsample_bytree": 0.7
+}
